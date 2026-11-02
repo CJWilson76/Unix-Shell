@@ -1,0 +1,31 @@
+# Compiled output
+*.o
+*.out
+*.a
+*.so
+*.exe
+
+# Executable (no extension on Linux/Mac)
+shell
+
+# Build directories
+build/
+dist/
+bin/
+
+# Debugging
+*.dSYM/
+*.su
+
+# GCC dependency files
+*.d
+
+# VS Code
+.vscode/
+
+# Clion
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
